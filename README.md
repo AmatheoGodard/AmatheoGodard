@@ -1,5 +1,3 @@
-<img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc201Nzd0bHZ6djc0eGl6aW9qa2o5YmMyNHg5dHo5MDN5MWZyNnN6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kFVqSiGPChgulLZLW/giphy.gif' width='200'>
-
 # 👋 Bonjour, je suis Amathéo Godard ! 
 
 ![Followers GitHub](https://img.shields.io/github/followers/agodard?style=social&color=purple)
@@ -24,13 +22,9 @@ J’aime créer des projets, expérimenter de nouveaux outils et donner vie à m
 ### 🌌 Web & Backend
 [![HTML](https://skillicons.dev/icons?i=html)](./)
 [![CSS](https://skillicons.dev/icons?i=css)](./)
-[![JS](https://skillicons.dev/icons?i=js)](./)
-[![React](https://skillicons.dev/icons?i=react)](./)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](./)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](./)
 
 ### 💻 Programmation & Bases de données
-[![Python](https://skillicons.dev/icons?i=python)](./)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](./)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](./)
 
