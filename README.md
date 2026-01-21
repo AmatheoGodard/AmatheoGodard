@@ -1,8 +1,8 @@
 # 👋 Bonjour, je suis Amathéo Godard ! 
 
-![Followers GitHub](https://img.shields.io/github/followers/agodard?style=social&color=purple)
-![Étoiles GitHub](https://img.shields.io/github/stars/agodard?style=social&color=purple)
-![Vues profil](https://komarev.com/ghpvc/?username=agodard)
+![Followers GitHub](https://img.shields.io/github/followers/AmatheoGodard?style=social&color=purple)
+![Étoiles GitHub](https://img.shields.io/github/stars/AmatheoGodard?style=social&color=purple)
+![Vues profil](https://komarev.com/ghpvc/?username=AmatheoGodard)
 
 Je suis **développeur web**, passionné par la **programmation**, le **développement full-stack** et la découverte de **nouvelles technologies**.  
 J’aime créer des projets, expérimenter de nouveaux outils et donner vie à mes idées 🚀  
@@ -11,9 +11,7 @@ J’aime créer des projets, expérimenter de nouveaux outils et donner vie à m
 
 ## 💻 Projets en vedette 🌟
 
-- [**Portfolio**](https://agodard.fr) – Mon site personnel pour présenter mes projets et compétences  
-- [**Projet Laravel**](https://github.com/agodard/projet-laravel) – Une application web construite avec Laravel  
-- [**Projet 3**](https://github.com/agodard/project3) – Un autre projet intéressant  
+- [**Portfolio**](https://agodard.fr) – Mon site personnel pour présenter mes projets et compétences   
 
 ---
 
@@ -22,6 +20,7 @@ J’aime créer des projets, expérimenter de nouveaux outils et donner vie à m
 ### 🌌 Web & Backend
 [![HTML](https://skillicons.dev/icons?i=html)](./)
 [![CSS](https://skillicons.dev/icons?i=css)](./)
+[![PHP](https://skillicons.dev/icons?i=php)](./)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](./)
 
 ### 💻 Programmation & Bases de données
@@ -32,6 +31,8 @@ J’aime créer des projets, expérimenter de nouveaux outils et donner vie à m
 [![VSCode](https://skillicons.dev/icons?i=vscode)](./)
 [![Git](https://skillicons.dev/icons?i=git)](./)
 [![GitHub](https://skillicons.dev/icons?i=github)](./)
+[![PhpStorm](https://skillicons.dev/icons?i=phpstorm)](./)
+
 
 ---
 
@@ -45,10 +46,6 @@ J’aime créer des projets, expérimenter de nouveaux outils et donner vie à m
 
 ## 📈 Statistiques GitHub 🌠
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agodard&show_icons=true&theme=dracula" alt="Statistiques GitHub" width="400" height="182">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agodard&layout=compact&theme=dracula" alt="Langages principaux" width="400" height="175">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmatheoGodard&show_icons=true&theme=dracula" alt="Statistiques GitHub" width="400" height="182">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmatheoGodard&layout=compact&theme=dracula" alt="Langages principaux" width="400" height="175">
 </p>
-
----
-
-🌌 *Explorer le code, un commit à la fois…* 🚀✨
