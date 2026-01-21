@@ -25,7 +25,7 @@ J’aime créer des projets, expérimenter de nouveaux outils et donner vie à m
 
 ### 💻 Programmation & Bases de données
 [![MySQL](https://skillicons.dev/icons?i=mysql)](./)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](./)
+[![Java](https://skillicons.dev/icons?i=java)](./)
 
 ### 🪧 Outils de développement
 [![VSCode](https://skillicons.dev/icons?i=vscode)](./)
