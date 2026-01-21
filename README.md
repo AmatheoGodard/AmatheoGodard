@@ -12,7 +12,8 @@ J’aime créer des projets, expérimenter de nouveaux outils et donner vie à m
 ## 💻 Projets en vedette 🌟
 
 - [**Portfolio**](https://agodard.fr) – Mon site personnel pour présenter mes projets et compétences   
-
+- [**Nuit de l’Info 2025**](https://a.futaie.org:1337/) – Projet réalisé pour la Nuit de l’Info 2025, challenge créatif et technique
+  
 ---
 
 ## 🛠️ Compétences & Technologies 🚀
