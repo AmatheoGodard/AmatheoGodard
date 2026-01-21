@@ -13,12 +13,6 @@ J’aime créer des projets, expérimenter de nouveaux outils et donner vie à m
 
 - [**Portfolio**](https://agodard.fr) – Mon site personnel pour présenter mes projets et compétences   
 - [**Nuit de l’Info 2025**](https://a.futaie.org:1337/) – Projet réalisé pour la Nuit de l’Info 2025  
-  <br>
-  <a href="https://a.futaie.org:1337/">
-    <img src="https://i.imgur.com/8ZPz0oL.png" alt="Nuit de l'Info 2025" width="300"/>
-  </a>
-  
----
 
 ## 🛠️ Compétences & Technologies 🚀
 
